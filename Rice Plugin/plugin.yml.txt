@@ -1,0 +1,8 @@
+name: RiceItems
+main: apple.Apples.rice.RicePlugin
+version: 1.0 #doesnt matter
+api-version:1.20 #works best i think
+commands:
+  giverice:
+    description:Give the player rice
+    usage: /giverice
